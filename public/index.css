@@ -1,0 +1,41 @@
+
+body {background-color: powderblue;
+    text-align:center;
+}
+h1{ 
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    /* color: white; */
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 70px;
+    cursor: pointer;
+  }
+  .text-name {
+        color: red;
+        margin: 10px;
+      }
+  .setup{
+        margin: 10px;
+      }
+      .joke {
+        background-color: rgba(255, 255, 128, .5); 
+        box-sizing:inherit; 
+        width: 95%;
+        /* border-style: double ;   */
+        padding-left:40px ; 
+        padding-right: 40px; 
+        padding-top:40px ;     
+        margin: 20px 80px 0px 30px; 
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        font-size: 25px;
+      }
+      
